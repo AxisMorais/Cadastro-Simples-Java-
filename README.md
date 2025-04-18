@@ -1,5 +1,5 @@
 # Projeto Java 
-• Projeto para fins didáticos que realiza  o cadastro simples de usuário contemplando:
+• Projeto para fins didáticos que realiza  o cadastro simples de usuário comtemplando:
 
 • Conexão Java  com o banco de dados MySQL -WorkBanch;
 
